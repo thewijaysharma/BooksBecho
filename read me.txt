@@ -1,0 +1,1 @@
+This is a java project with servlets and JSPs. It has been created on eclipse and it is associated with local database (using MySQL)
